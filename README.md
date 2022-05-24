@@ -3,7 +3,7 @@
 
 <a href="https://github.com/RickeyH">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RickeyH&count_private=true&show_icons=true&theme=buefy&bg_color=70,FFFFFF,DDDDFF" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyH&hide=html,javascript,css&bg_color=70,FFFFFF,EEEEFF&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyH&hide=html,javascript,css&bg_color=70,FFFFFF,EEEEFF&layout=compact" /> 
 </a>
 
 ### Self introduction
