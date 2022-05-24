@@ -1,9 +1,9 @@
 # Welcome to my Profile 👋
 ### Github Overview 🧑‍💻
 
-<a href="https://github.com/RickeyHuang">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RickeyHuang&count_private=true&show_icons=true&theme=buefy&bg_color=70,FFFFFF,DDDDFF" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyHuang&hide=html,javascript,css&bg_color=70,FFFFFF,EEEEFF&layout=compact" />
+<a href="https://github.com/RickeyH">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RickeyH&count_private=true&show_icons=true&theme=buefy&bg_color=70,FFFFFF,DDDDFF" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyH&hide=html,javascript,css&bg_color=70,FFFFFF,EEEEFF&layout=compact" />
 </a>
 
 ### Self introduction
